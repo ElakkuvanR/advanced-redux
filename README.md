@@ -1,7 +1,8 @@
 # Redux
 
-A general Redux flow looks like this
+Refer the redux-it repo before this one, to have basic understanding of the react-redux
 
-![Redux](docs/img/reducer_general.png?raw=true "Redux")
+1. Advanced redux to handle the Shopping functionalities
+1. Basic Add, Remove Cart Item functionalities with react-redux
 
 ## Happy Coding....!!!
